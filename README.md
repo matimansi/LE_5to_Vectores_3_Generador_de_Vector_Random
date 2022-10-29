@@ -1,7 +1,7 @@
 # LE_5to_Vectores_3_Generador_de_Vector_Random
  
 Consigna:
-    Desarrollar un programa que pida un valor máximo y uno mínimo por
+	Desarrollar un programa que pida un valor máximo y uno mínimo por
 	pantalla para poder inicializar un vector de 10 elementos con valores
 	random en ese rango. Imprimir el vector. 
 	*buscar el internet el uso de la función rand()
